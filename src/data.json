@@ -32,21 +32,6 @@
       ]
     },
     {
-      "id": "56yu",
-      "title": "Exploring Academic Support Services",
-      "topic": "academic-resources",
-      "content": "<h1 class=\"ql-align-justify\">Exploring Academic Support Services</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
-      "author": "Emma Watson",
-      "shortdescription": "This post provides an overview of academic support services available to students, including tutoring, writing centers, and academic advising, highlighting their role in enhancing learning outcomes and academic success.",
-      "createdDate": "03-02-2024",
-      "replies": [
-        {
-          "content": "Check if Reply Works or not",
-          "user": "Kishan"
-        }
-      ]
-    },
-    {
       "id": "78tg",
       "title": "The Importance of Research Opportunities",
       "topic": "academic-resources",
@@ -114,7 +99,12 @@
       "author": "Sophie Wilson",
       "shortdescription": "This post highlights various attractions and landmarks on campus, from historic buildings and art installations to green spaces and student gathering spots, enhancing the college experience and promoting campus exploration.",
       "createdDate": "03-02-2024",
-      "replies": []
+      "replies": [
+        {
+          "content": "good",
+          "user": "kranthi"
+        }
+      ]
     },
     {
       "id": "56cv",
@@ -134,26 +124,6 @@
       "author": "Sophia Taylor",
       "shortdescription": "This post offers tips and suggestions for staying active and healthy on campus, including fitness classes, recreational sports leagues, and outdoor activities, promoting physical well-being and campus engagement.",
       "createdDate": "02-20-2024",
-      "replies": []
-    },
-    {
-      "id": "23ds",
-      "title": "Embracing Campus Diversity",
-      "topic": "culture",
-      "content": "<h1 class=\"ql-align-justify\">Embracing Campus Diversity</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
-      "author": "Emma Johnson",
-      "shortdescription": "This post celebrates campus diversity and inclusivity, highlighting initiatives and events that promote cultural exchange, intercultural dialogue, and appreciation for diverse backgrounds, fostering a welcoming and supportive campus community.",
-      "createdDate": "02-18-2024",
-      "replies": []
-    },
-    {
-      "id": "78we",
-      "title": "Exploring Cultural Events",
-      "topic": "culture",
-      "content": "<h1 class=\"ql-align-justify\">Exploring Cultural Events</h1><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan justo. Nullam euismod, ante at fringilla malesuada, dolor lectus tempor turpis, id scelerisque risus velit et ipsum. Sed pellentesque nisl vitae mi tincidunt, at varius justo blandit.</p>",
-      "author": "Michael Brown",
-      "shortdescription": "This post highlights various cultural events and activities on campus, from multicultural festivals and art exhibitions to international film screenings and culinary showcases, promoting cultural exchange and appreciation.",
-      "createdDate": "02-12-2024",
       "replies": []
     },
     {
@@ -256,7 +226,12 @@
       "author": "Sophia Taylor",
       "shortdescription": "This post discusses the importance of promoting mental health awareness and destigmatizing mental illness within campus communities, including resources, support services, and initiatives aimed at fostering mental well-being.",
       "createdDate": "03-05-2024",
-      "replies": []
+      "replies": [
+        {
+          "content": "Make it little more informative!",
+          "user": "john"
+        }
+      ]
     },
     {
       "id": "90qw",
@@ -331,7 +306,12 @@
       "author": "Sophie Wilson",
       "shortdescription": "This post explores the benefits of alumni networks and connections for current students, from mentorship opportunities and career advice to networking events and professional development resources, facilitating post-graduation success and community engagement.",
       "createdDate": "02-15-2024",
-      "replies": []
+      "replies": [
+        {
+          "content": "That's good!",
+          "user": "admin"
+        }
+      ]
     },
     {
       "id": "78fb",
@@ -352,6 +332,31 @@
       "shortdescription": "This post discusses the benefits of engaging with alumni communities and networks, including professional networking opportunities, mentorshipconnections, and lifelong learning resources, fostering continued personal and professional growth.",
       "createdDate": "01-30-2024",
       "replies": []
+    },
+    {
+      "id": "ca4a",
+      "title": "abc",
+      "topic": "campus",
+      "content": "",
+      "author": "kranthi",
+      "shortdescription": "abcdef",
+      "createdDate": "03-10-2024",
+      "replies": []
+    },
+    {
+      "id": "d1d3",
+      "title": "title",
+      "topic": "career-services",
+      "content": "",
+      "author": "kranthi",
+      "shortdescription": "abssd",
+      "createdDate": "03-10-2024",
+      "replies": [
+        {
+          "content": "good",
+          "user": "kranthi"
+        }
+      ]
     }
   ]
 }

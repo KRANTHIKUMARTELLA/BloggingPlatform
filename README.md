@@ -1,6 +1,6 @@
-# College/Department Blogging Platform
+# illinois institute of technology Blogging Platform
 
-Welcome to the College/Department Blogging Platform! This platform serves as a centralized hub for sharing insights, experiences, and resources within our college or department community.
+Welcome to the illinois institute of technology Blogging Platform! This platform serves as a centralized hub for sharing insights, experiences, and resources within our college or department community.
 
 ## Features
 

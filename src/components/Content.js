@@ -43,7 +43,7 @@ const Content = () => {
 
   const user=localStorage.getItem('user');
   var isuser = false;
-  if(user=='ytuig')
+  if(user==='john')
   {
     isuser=true;
   } else{

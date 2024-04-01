@@ -88,7 +88,7 @@ function Header(props) {
             </Button>
           ) : null}
           <br/>
-          {user=='admin' ? (
+          {user==='admin' ? (
             <Button component={Link} to="/ManageUsers" variant="outlined" size="small" style={ {marginLeft: '10px'}}>
               Manage Users
             </Button>

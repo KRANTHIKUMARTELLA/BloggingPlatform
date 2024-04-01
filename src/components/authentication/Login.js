@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom';
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import Typography from '@mui/material/Typography';
-
+import pic from './image.jpg';
 function Login() {
   const [username, setUsername] = useState('');
   const [error, setError] = useState('');
@@ -28,7 +28,7 @@ function Login() {
       return;
     }
 
-    if (username === 'admin' && password === 'root') {
+    if (username === 'admin' && password === 'admin') {
       // If correct, grant access and redirect to blog page
       localStorage.setItem('user', 'admin');
       localStorage.setItem('login', true);
@@ -45,15 +45,15 @@ function Login() {
     if(foundUser){
       if(foundUser.enabled){
     
-          if (username === 'ytuig' && password === 'mpass') {
+          if (username === 'john' && password === 'tech') {
             // If correct, grant access and redirect to blog page
-            localStorage.setItem('ytuig', 'moderator');
-            localStorage.setItem('user', 'ytuig');
+            localStorage.setItem('john', 'moderator');
+            localStorage.setItem('user', 'john');
             localStorage.setItem('login', true);
             navigate('/'); // Redirect to the blog page
-          } else if (username === 'kpatel169' && password === 'spass') {
+          } else if (username === 'kranthi' && password === 'tella') {
             // If correct, grant access and redirect to blog page
-            localStorage.setItem('user', 'kpatel169');
+            localStorage.setItem('user', 'kranthi');
             localStorage.setItem('login', true);
             navigate('/'); // Redirect to the blog page
           } else {
@@ -73,7 +73,7 @@ function Login() {
   };
 
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', margin: 'auto', width: '50%', marginTop: '16px' }}>
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', margin: 'auto', width: '100%',height:'100vh', /* marginTop: '16px', */ backgroundImage: `url(${pic})`,backgroundSize:'cover',backgroundRepeat:'no-repeat',backgroundPosition:'center' }}>
       <Typography variant="h5" gutterBottom>Login</Typography> {/* Login heading */}
       {error && (
         <Card style={{ marginBottom: '16px' }}>

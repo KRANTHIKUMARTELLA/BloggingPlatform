@@ -6,7 +6,7 @@ import { useNavigate } from 'react-router-dom';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import Header from './Header';
 import Footer from './Footer';
-import photo from './mainpage.png';
+import photo from './mainPage.png.jpg';
 
 // Updated sections array to include an 'id' for each section
 const sections = [
@@ -40,7 +40,7 @@ export default function Blog() {
       <CssBaseline />
       <Container maxWidth="lg">
         <Header
-          title="Blog"
+          title="Illinois Institute of Technology Blogging Platform"
           sections={sections.map((section) => ({
             ...section,
             onClick: () => handleSectionClick(section.id),
@@ -52,7 +52,7 @@ export default function Blog() {
           <div style={{ marginLeft: '24px', width: 'calc(100% - 48px)' }}>
             <img src={photo} style={{ width: '100%', height: 'auto' }} />
             <Typography variant="h5" style={{ marginTop: '16px' }}>
-              Welcome to our college/department blogging platform!
+              Welcome to our Illinois Tech blogging platform!
             </Typography>
             <br/>
             <Typography variant="body1" style={{ marginBottom: '24px' }}>

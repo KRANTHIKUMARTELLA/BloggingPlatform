@@ -142,7 +142,7 @@ const ViewPostGrid = () => {
                   </CardContent>
                 </Link>
                 <CardActions style={{ position: 'absolute', top: '5px', right: '5px' }}>
-                {user=='ytuig' ? (
+                {user==='john' ? (
                   <IconButton aria-label="delete" onClick={() => handleDelete(post.id)}>
                   <DeleteIcon />
                 </IconButton>
